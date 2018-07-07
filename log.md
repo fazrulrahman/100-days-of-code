@@ -6,7 +6,7 @@
 
 **Thoughts:** Started as per plan.
 
-**Link to work:** https://github.com/fazrulrahman/100-days-of-code
+**Link to work:** https://github.com/fazrulrahman/Matrix-multiplication-using-Map-Reduce
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
