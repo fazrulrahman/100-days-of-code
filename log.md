@@ -8,6 +8,14 @@
 
 **Link to work:** https://github.com/fazrulrahman/Matrix-multiplication-using-Map-Reduce
 
+### Day 2: July 8, 2018 
+
+**Today's Progress**: Progress in feeding the input file
+
+**Thoughts:** Have to speed up
+
+**Link to work:** https://github.com/fazrulrahman/Matrix-multiplication-using-Map-Reduce
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
