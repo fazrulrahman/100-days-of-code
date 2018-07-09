@@ -16,6 +16,13 @@
 
 **Link to work:** https://github.com/fazrulrahman/Matrix-multiplication-using-Map-Reduce
 
+### Day 3: July 9, 2018 
+
+**Today's Progress**: Started with a new open source project, learning how it works
+
+**Thoughts:** Have to speed up
+
+**Link to work:** https://github.com/fazrulrahman/CPod
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
