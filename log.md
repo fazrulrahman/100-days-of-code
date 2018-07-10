@@ -23,6 +23,14 @@
 **Thoughts:** Have to speed up
 
 **Link to work:** https://github.com/fazrulrahman/CPod
+
+### Day 4: July 10, 2018 
+
+**Today's Progress**: Getting to know about Cpod
+
+**Thoughts:** Have to speed up
+
+**Link to work:** https://github.com/fazrulrahman/CPod
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
