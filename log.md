@@ -31,6 +31,13 @@
 **Thoughts:** Have to speed up
 
 **Link to work:** https://github.com/fazrulrahman/CPod
+
+### Day 5: July 11, 2018 
+
+**Today's Progress**: Reading clead code book
+
+**Thoughts:** Important thing to do, today no internet so started reading that, it's good
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
