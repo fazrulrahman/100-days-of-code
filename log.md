@@ -34,7 +34,7 @@
 
 ### Day 5: July 11, 2018 
 
-**Today's Progress**: Reading clead code book
+**Today's Progress**: Reading clean code book
 
 **Thoughts:** Important thing to do, today no internet so started reading that, it's good
 
