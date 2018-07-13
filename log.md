@@ -38,6 +38,19 @@
 
 **Thoughts:** Important thing to do, today no internet so started reading that, it's good
 
+### Day 6: July 12, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 6: July 13, 2018 
+
+**Today's Progress**: Understanding cPod
+
+**Thoughts:** Learning how a app looks like
+
+**Link to work:** https://github.com/fazrulrahman/CPod
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
