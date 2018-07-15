@@ -51,6 +51,13 @@
 **Thoughts:** Learning how a app looks like
 
 **Link to work:** https://github.com/fazrulrahman/CPod
+
+### Day 7: July 4, 2018 
+
+**Today's Progress**: Learning Etherium
+
+**Thoughts:** Have to learn solidity
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
