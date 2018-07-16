@@ -63,6 +63,10 @@
 **Today's Progress**: 
 **Thoughts:** Have to learn solidity
 
+### Day 8: July 16, 2018 
+
+**Today's Progress**: Installed local server on Lap and tried D3.js 
+**Thoughts:** Have to implement this in my PG final year project
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
