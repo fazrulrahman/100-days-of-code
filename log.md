@@ -68,6 +68,18 @@
 **Today's Progress**: Installed local server on Lap and tried D3.js 
 **Thoughts:** Have to implement this in my PG final year project
 
+### Day 9: July 17, 2018 
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 9: July 18, 2018 
+
+**Today's Progress**: Started working with trees in java
+**Thoughts:** Keep moving don't stop
+**Link to work:** https://github.com/fazrulrahman/Trees
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
