@@ -79,6 +79,11 @@
 **Thoughts:** Keep moving don't stop
 **Link to work:** https://github.com/fazrulrahman/Trees
 
+### Day 10: July 19, 2018 
+
+**Today's Progress**: implemented inserting in BST
+**Thoughts:** Going good, keep doing, have to implement other feature of BST
+**Link to work:** https://github.com/fazrulrahman/Trees
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
